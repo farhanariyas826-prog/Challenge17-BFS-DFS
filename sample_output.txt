@@ -1,0 +1,5 @@
+BFS Traversal: Root Documents Downloads FileA.txt FileB.txt
+BFS: File found
+
+DFS Traversal: Root Documents FileA.txt Downloads FileB.txt
+DFS: File found
